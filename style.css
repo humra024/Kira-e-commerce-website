@@ -839,7 +839,13 @@ body.showCart .container{
   #header{
     padding: 0 20px;
     background-position: 55%;
-
+  }
+  #header .logo{
+    height: 35px;
+    margin: 10px;
+  }
+  .logo{
+    height: 35px;
   }
   #hero{
     padding: 0 20px;
