@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "name":"Cartoon Floral Shirt",
+        "brand":"Adidas",
+        "price": 89,
+        "image": "img/products/f1.jpg"
+    },
+    {
+        "id": 2,
+        "name":"Floral Print Shirt",
+        "brand":"H&M",
+        "price": 99,
+        "image": "img/products/f2.jpg"
+    },
+    {
+        "id": 3,
+        "name":"Rose Pattern Shirt",
+        "brand":"Zara",
+        "price": 79,
+        "image": "img/products/f3.jpg"
+    },
+    {
+        "id": 4,
+        "name":"Light Pink Floral Shirt",
+        "brand":"Mango",
+        "price": 89,
+        "image": "img/products/f4.jpg"
+    },
+    {
+        "id": 5,
+        "name":"Dark Floral Shirt",
+        "brand":"Zara",
+        "price": 89,
+        "image": "img/products/f5.jpg"
+    },
+    {
+        "id": 6,
+        "name":"Corduroy Shirt",
+        "brand":"H&M",
+        "price": 99,
+        "image": "img/products/f6.jpg"
+    },
+    {
+        "id": 7,
+        "name":"Floral Printed Pants",
+        "brand":"Zara",
+        "price": 89,
+        "image": "img/products/f7.jpg"
+    },
+    {
+        "id": 8,
+        "name":"Cartoon Cats Top",
+        "brand":"Mango",
+        "price": 79,
+        "image": "img/products/f8.jpg"
+    },
+    {
+        "id": 9,
+        "name":"Blue Cotton Shirt",
+        "brand":"Color Plus",
+        "price": 89,
+        "image": "img/products/n1.jpg"
+    },
+    {
+        "id": 10,
+        "name":"Check Shirt",
+        "brand":"H&M",
+        "price": 99,
+        "image": "img/products/n2.jpg"
+    },
+    {
+        "id": 11,
+        "name":"White Shirt",
+        "brand":"Zara",
+        "price": 79,
+        "image": "img/products/n3.jpg"
+    },
+    {
+        "id": 12,
+        "name":"Graphic Shirt",
+        "brand":"Mango",
+        "price": 89,
+        "image": "img/products/n4.jpg"
+    },
+    {
+        "id": 13,
+        "name":"Denim Shirt",
+        "brand":"Zara",
+        "price": 89,
+        "image": "img/products/n5.jpg"
+    },
+    {
+        "id": 14,
+        "name":"Striped Capri Pants",
+        "brand":"H&M",
+        "price": 99,
+        "image": "img/products/n6.jpg"
+    },
+    {
+        "id": 15,
+        "name":"Mustard Shirt",
+        "brand":"Zara",
+        "price": 89,
+        "image": "img/products/n7.jpg"
+    },
+    {
+        "id": 16,
+        "name":"Black Half Sleeves",
+        "brand":"Mango",
+        "price": 79,
+        "image": "img/products/n8.jpg"
+    }
+    
+]
