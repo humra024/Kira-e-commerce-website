@@ -57,6 +57,7 @@ listProductHTML.addEventListener('click', (event) => {
         let cart_btn = positionClick.parentElement; //cart icon inside button inside pro div
         let id_product = cart_btn.parentElement.dataset.id;
         addToCart(id_product);
+        body.classList.add('showCart');
     }
 })
 
